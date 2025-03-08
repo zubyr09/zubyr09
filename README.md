@@ -1,5 +1,5 @@
 # About Me:
-Hey, This is Afridi Jubair. Currently pursuing my undergrad on Nuclear Engineering at the University of Dhaka. 
+Hey, This is Afridi Jubair. Currently pursuing my undergrad in Nuclear Engineering at the University of Dhaka. 
 
 
 ## 🌐 Socials:
