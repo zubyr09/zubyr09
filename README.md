@@ -1,6 +1,8 @@
 # About Me:
 Hey, This is Afridi Jubair, a dedicated Data Science & AI enthusiast with a background in Nuclear Engineering from the University of Dhaka. I am passionate about Machine Learning, Deep Learning, Generative AI, and Data Analytics, aiming to contribute by solving real-world problems and driving innovation with the latest technologies like Large Language Models (LLMs), Computer Vision, Edge AI, AI for Science, Quantum Machine Learning, and AutoML.
 
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afridi-jubair-310706341/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jubair.afridi.09/) 
 
@@ -48,6 +50,8 @@ Hey, This is Afridi Jubair, a dedicated Data Science & AI enthusiast with a back
 ![](https://github-readme-stats.vercel.app/api?username=zubyr09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zubyr09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubyr09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zubyr09&limit=5&theme=dark&combine_all_yearly_contributions=true)
